@@ -1,0 +1,2 @@
+C:/Users/subha/Desktop/Live projects/hole_hse_inspection/android/app/.cxx/Debug/2yc6g1a2/x86/CMakeFiles/edit_cache.dir
+C:/Users/subha/Desktop/Live projects/hole_hse_inspection/android/app/.cxx/Debug/2yc6g1a2/x86/CMakeFiles/rebuild_cache.dir
